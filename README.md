@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Koleman256k
 - 👀 I’m interested in security and gaming
-- 🌱 I’m currently learning Unity and Game Based NFT's
 - 📫 How to reach me ... koleman.ireland@gmail.com
 
 <!---
